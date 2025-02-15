@@ -1,5 +1,4 @@
-5
-ChatGPT said:
+
 Assignment 4 - Interactive 3D Game World
 Overview
 
